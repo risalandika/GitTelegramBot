@@ -1,2 +1,9 @@
 # GitTelegramBot
-Telegram Bot with PHP for integrating with version control (GIT)
+Telegram Bot with native PHP for `git pull` and `git status` command
+
+## Installation guides
+
+visit https://github.com/risalandika/GitTelegramBot/wiki/Installation-Guides
+
+## Created by
+Risal / risal.andika@gmail.com
